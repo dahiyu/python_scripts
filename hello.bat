@@ -1,0 +1,1 @@
+@py.exe C:\Users\d.yamashita\Documents\work\python\hello.py %*
